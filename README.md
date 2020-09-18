@@ -1,7 +1,10 @@
 
 This repo demonstrates how to reproduce the results "Rotation-aware-3D-vehicle-detector"
-From the  [SECOND for KITTI object detection](https://github.com/traveller59/second.pytorch),
+
+From the  [SECOND for KITTI object detection](https://github.com/traveller59/second.pytorch)
+
 We make minimum changes for implementing our algorithms (Using SECOND as backbone network) 
+
 Evaluation is on the [KITTI dataset](http://www.cvlibs.net/datasets/kitti/)
 
 
